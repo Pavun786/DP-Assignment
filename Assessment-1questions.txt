@@ -22,6 +22,9 @@ Constraints:
 s consists of only digits and English letters.
 
 
+//==========================================================================================
+
+
 Question -3 :
 
 Problem Description:
@@ -54,6 +57,7 @@ Constraints:
 1 <= word.length <= 100
 sequence and word contain only lowercase English letters.
 
+//========================================================================================
 
 
 Question 4
